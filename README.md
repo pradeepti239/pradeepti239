@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SQL, Python, Machine Learning, BI**
 
-- 📫 Reach me at **pradeepti239@gmail.com**
+- 📫 Reach me at **pradeepti.aryal239@gmail.com**
 
 
 <br><h3 align="left">Connect with me:</h3>
