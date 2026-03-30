@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pradeepti Aryal</h1>
 <h3 align="center">Data Science Enthusiast</h3> <br>
 
-- 🌱 I’m currently learning **SQL, Python, Machine Learning, BI**
+- 🌱 I’m currently learning **SQL, Python, AI/Machine Learning, Data Security**
 
-- 📫 Reach me at **pradeepti.aryal239@gmail.com**
+- 📫 Reach me at **pradeepti239@gmail.com**
 
 
 <br><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pradeepti-aryal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeepti-aryal" height="30" width="40" /></a>
-<a href="https://dribbble.com/pradeepti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="pradeepti" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pradeepti-aryal" target="blank">LinkedIn Profile</a>
+<a href="https://pradeepti239.github.io/resume/" target="blank">Website</a>
 </p><br>
 
 <h3 align="left">Languages and Tools:</h3>
