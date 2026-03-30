@@ -8,7 +8,7 @@
 
 <br><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pradeepti-aryal" target="blank">LinkedIn Profile</a>
+<a href="https://linkedin.com/in/pradeepti-aryal" target="blank">LinkedIn Profile</a> <br>
 <a href="https://pradeepti239.github.io/resume/" target="blank">Website</a>
 </p><br>
 
